@@ -1,0 +1,14 @@
+Flask
+Flask-Login
+Flask-SQLAlchemy
+Werkzeug
+SQLAlchemy
+pandas
+numpy
+Jinja2
+MarkupSafe
+click
+itsdangerous
+python-dotenv
+email-validator
+flask-wtf
